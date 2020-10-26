@@ -18,8 +18,8 @@ function Landing(){
 de muitas crianças.</p>
           </main>
           <div className="location">
-            <strong>Rio do sul</strong>
-            <span>Santa Catarina</span>
+            <strong>São Paulo</strong>
+            <span>São Paulo</span>
           </div>
 
           <Link to="/app" className="enter-app">
